@@ -10,5 +10,5 @@ I hope to learn how to organize and better visualize the data I am using to tell
 # Porfolio
 Stay tuned...This is where all of my data visualizations will go! 
 
-[Government Debts](/datavis2/README.md)
+[Government Debts](datavis2/README.md/)
 
