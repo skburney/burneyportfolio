@@ -22,7 +22,7 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Employment by Race](https://infogram.com/employment-and-income-based-on-race-1hdw2jok8xoo6l0?live)
 
-[Original Wireframe Design]()
+[Original Wireframe Design](https://skburney.github.io/Datavis3/)
 
 Source: https://www.bls.gov/cps/cpsaat05.htm
 
