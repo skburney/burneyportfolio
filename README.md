@@ -14,6 +14,7 @@ As I learn, enjoy my visualizations
 
 Employment by Race Project
 
+
 The below will take you directly to my visualization site that showcases the employment rate by race.  It took me some time to figure out how I wanted this data to be redistributed and used.  After trying to put all of this data in one bar chart, I knew that I would need to break this out a bit more.  The data I used is dense and has a lot of information that I decided to use. 
 
 I tried to take the chart data and think how it would look great and visually appealing.  Instead of using the tool Flourish, I decided to use a template on Infograms that I could customize based on the data and break it down.  I also ran my original design by partner and co-worker who mentioned great points of not knowing what the data was showing in my Flourish design.  They said it was difficult to tell what was going on and what the data was trying to say.  As mentioned, I completely scraped this design and knew that I would need more than one visualization to showcase all of the information in the source data. 
