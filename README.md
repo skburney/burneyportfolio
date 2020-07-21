@@ -24,5 +24,6 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Original Wireframe Design](https://skburney.github.io/Datavis3/)
 
-Source: https://www.bls.gov/cps/cpsaat05.htm
+[Source](https://www.bls.gov/cps/cpsaat05.htm) 
+
 
