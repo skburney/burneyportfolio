@@ -22,7 +22,7 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Employment by Race](https://infogram.com/employment-and-income-based-on-race-1hdw2jok8xoo6l0?live)
 
-[Original Wireframe Design](<div class="flourish-embed flourish-chart" data-src="visualisation/3227269" data-url="https://flo.uri.sh/visualisation/3227269/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+[Original Wireframe Design]()
 
 Source: https://www.bls.gov/cps/cpsaat05.htm
 
