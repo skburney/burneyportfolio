@@ -35,27 +35,47 @@ Below is the wireframe I created to showcase the journey that I wanted to take t
 
 The below data sources are a combination of race data and news articles on the companies in question, Berkshire Hathaway and AT&T.  Additionally, there are sources below that will help provide more commentary on diversity and inclusion and how it pertains to corporate America. 
 
-https://www.forbes.com/sites/patsydoerr/2018/11/05/four-companies-who-are-getting-diversity-inclusion-right-and-how-theyre-doing-it/#ac93f5d57a2b 
+https://www.forbes.com/sites/patsydoerr/2018/11/05/four-companies-who-are-getting-diversity-inclusion-right-and-how-theyre-doing-it/#ac93f5d57a2b
+
 https://www.refinitiv.com/content/dam/marketing/en_us/documents/reports/diversity-and-inclusion-top-100-companies.pdf
+
 https://www.forbes.com/sites/niharchhaya/2020/06/29/why-diversity-and-inclusion-efforts-fail-to-deliver-and-how-to-change-that/#5f393ebf57be
+
 https://data.bls.gov/cgi-bin/dbdown?REQUEST_ERROR_MESSAGE
+
 https://www.cnbc.com/2020/06/11/companies-are-making-bold-promises-about-greater-diversity-theres-a-long-way-to-go.html
+
 https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics
+
 https://www.comparably.com/companies/berkshire-hathaway/diversity
+
 https://www.huffpost.com/entry/berkshire-hathaway-diversity_n_3222455
+
 https://diversityjournal.com/19148-why-diversity-equity-and-inclusion-struggle-in-corporate-america/
+
 https://hbr.org/2017/08/what-11-ceos-have-learned-about-championing-diversity
+
 https://drduru.com/onetwentytwo/2016/05/01/warren-buffett-is-tone-deaf-on-diversity/
+
 https://assets2.hrc.org/files/assets/resources/CEI-2020.pdf?_ga=2.154170296.1253643112.1595892998-1436776610.1595892998
+
 https://www.washingtonblade.com/2019/11/30/just-how-diverse-are-national-residential-real-estate-firms/
+
 https://about.att.com/pages/diversity
-https://about.att.com/pages/diversity/our_employees
+
 https://www.fool.com/investing/general/2013/05/12/the-3-worst-large-cap-companies-for-workplace-dive.aspx
+
 https://www.forbes.com/sites/laurarittenhouse/2019/05/08/how-warren-buffett-made-history-last-friday-and-why-this-matters/#6f894a8891ef
+
 https://www.bhhs.com/about
+
 https://investors.att.com/corporate-governance/leadership
+
 https://drduru.com/onetwentytwo/2020/05/03/warren-buffett-welcomes-more-discussion-on-diversity/
+
 https://omaha.com/money/low-ranked-berkshire-adds-to-its-diversity/article_3e06ee5a-1bc3-51ad-b4d8-5335d1609459.html
+
 https://hbr.org/2020/05/diversity-and-inclusion-efforts-that-really-work
+
 https://www.mercer.com/content/dam/mercer/attachments/private/gl-2020-wwt-global-research-report-2020.pdf
 
