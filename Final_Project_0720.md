@@ -17,11 +17,13 @@ I plan on presenting my final project in Shorthand as I believe it will be the c
 
 # User Research & Project Revisions
 
-Person 1: 
+**Person 1**: 
 After reviewing my original storyboard, the first person I got feedback from suggested using AT&T as my positive company example and that they would have a lot of data on their Diversity and Inclusion efforts. 
-Person 2: 
+
+**Person 2**: 
 Suggested using data on the financial aspects of D&I efforts that I company is supporting.  However, it’s even harder to find company financial statements and where they are exactly pledging that money.  
-Person 3: 
+
+**Person 3**: 
 This person suggested adding more general information on D&I and giving the reader initial information so they have a platform to move from when it comes to navigating this topic. 
 
 
