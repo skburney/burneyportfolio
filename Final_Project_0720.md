@@ -12,9 +12,11 @@
 -	Lastly, I want to end with some things the reader can look for in a company for D&I and what transparency they should be looking for. 
 
 # Method of Presenting
+
 I plan on presenting my final project in Shorthand as I believe it will be the cleanest method to keep the data and story engaged for the reader.  In addition, I will be using Infogram to create the charts needed for my final project.
 
 # User Research & Project Revisions
+
 Person 1: 
 After reviewing my original storyboard, the first person I got feedback from suggested using AT&T as my positive company example and that they would have a lot of data on their Diversity and Inclusion efforts. 
 Person 2: 
@@ -24,12 +26,16 @@ This person suggested adding more general information on D&I and giving the read
 
 
 # Wireframe
+
 Below is the wireframe I created to showcase the journey that I wanted to take the reader on.  I originally wanted to keep it simple and focus on two companies.  This was to help the reader think of each as a good/bad guy in the story of diversity and inclusion.  However, I want to add more to it and start with definitions of D&I and why they are important based off census data. 
 
 ![Wireframe](wireframe_final project.jpg)
 
 # Data Sources
-https://www.forbes.com/sites/patsydoerr/2018/11/05/four-companies-who-are-getting-diversity-inclusion-right-and-how-theyre-doing-it/#ac93f5d57a2b
+
+The below data sources are a combination of race data and news articles on the companies in question, Berkshire Hathaway and AT&T.  Additionally, there are sources below that will help provide more commentary on diversity and inclusion and how it pertains to corporate America. 
+
+https://www.forbes.com/sites/patsydoerr/2018/11/05/four-companies-who-are-getting-diversity-inclusion-right-and-how-theyre-doing-it/#ac93f5d57a2b 
 https://www.refinitiv.com/content/dam/marketing/en_us/documents/reports/diversity-and-inclusion-top-100-companies.pdf
 https://www.forbes.com/sites/niharchhaya/2020/06/29/why-diversity-and-inclusion-efforts-fail-to-deliver-and-how-to-change-that/#5f393ebf57be
 https://data.bls.gov/cgi-bin/dbdown?REQUEST_ERROR_MESSAGE
