@@ -26,5 +26,5 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Source](https://www.bls.gov/cps/cpsaat05.htm) 
 
-[Final Project Part I](Final_Project_0720)
+[Final Project Part I](/Final_Project_0720)
 
