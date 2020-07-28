@@ -12,7 +12,7 @@ As I learn, enjoy my visualizations
 
 [Government Debts](https://skburney.github.io/datavis2/)
 
-# Employment by Race Project
+Employment by Race Project
 
 The below will take you directly to my visualization site that showcases the employment rate by race.  It took me some time to figure out how I wanted this data to be redistributed and used.  After trying to put all of this data in one bar chart, I knew that I would need to break this out a bit more.  The data I used is dense and has a lot of information that I decided to use. 
 
