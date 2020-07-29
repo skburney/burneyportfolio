@@ -3,13 +3,15 @@
 **How Inclusive is Their Diversity?**
 
 -	As the reader, I want to know how companies are being inclusive with their current diverse employees.  
--	I want to define Diversity & Inclusion separately.
--	Provide general data on races in the workplace based on general job functions from the census.  
--	Show how often companies seem to “fail” when it comes to diversity & inclusion.  Most companies focus or force their efforts on hiring diversity and incorporating the “Rooney rule”, but what happens to the diverse employees once they are a part of the company?
--	I would show the above by giving a company example of Berkshire Hathaway and what they provide in terms of their D&I efforts. 
--	Berkshire Hathaway says that D&I is important but does little to back that statement up with numbers and initiative. 
--	I then want to provide AT&T as an example of a company who is embracing D&I and their efforts along with the numbers that they provide for their readers and anyone learning more about their company.  
--	Lastly, I want to end with some things the reader can look for in a company for D&I and what transparency they should be looking for. 
+-	I want to start off by defining Diversity & Inclusion separately.
+-	Next, I want to provide general data on races in the workplace based on general job functions from a Mercer/Census study.  
+-	Next go into a next section on how often companies seem to “fail” when it comes to diversity & inclusion.  Most companies focus or force their efforts on hiring diversity and incorporating the “Rooney rule”, but what happens to the diverse employees once they are a part of the company.  
+- So once I explain D&I and how easy it can be to fail then I want to give an example of a company that is putting little to no effort into D&I.
+-	The company example will be Berkshire Hathaway and what they provide in terms of their D&I efforts. 
+-	Berkshire Hathaway says that D&I is important but does little to back that statement up with numbers and initiative.  They will only hire a woman on their board every so often, but refuse to have benchemarking tactics to hold themselves accountable. 
+- Next I want to add a rhetorical question on why Berkshire Hathaway may be failing or does it seem that they are doing all that they can for diversity. 
+-	Then I want to provide a more positive example using AT&T.  As they are a company who is embracing D&I and their efforts along with the numbers that they provide for their readers and anyone learning more about their company.  They keep themselevs accountable and have data on their company site and are open about their efforts and have many awards to show that.
+-	Lastly, I want to end with some things the reader can look for in a company for D&I and what transparency they should be looking for. For example this could be: Website transparency, Is their leadership diverse, Do they have open resources for their current employees like Employee Resource Groups and do they offer diversity or unconscious bias. 
 
 # Method of Presenting
 
