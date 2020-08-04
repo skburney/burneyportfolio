@@ -22,10 +22,14 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Employment by Race](https://infogram.com/employment-and-income-based-on-race-1hdw2jok8xoo6l0?live)
 
+[Source](https://www.bls.gov/cps/cpsaat05.htm) 
+
 # Other Projects
 
 [Original Wireframe Design](https://skburney.github.io/Datavis3/)
 
-[Source](https://www.bls.gov/cps/cpsaat05.htm) 
-
 [Final Project Part I](/Final_Project_0720.md)
+
+Final Project Part II
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/how-inclusive-is-their-diversity_SKB/"><h1>How Inclusive is their Diversity</h1></div>
