@@ -30,6 +30,5 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Final Project Part I](/Final_Project_0720.md)
 
-Final Project Part II
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/how-inclusive-is-their-diversity_SKB/"><h1>How Inclusive is their Diversity</h1></div>
+[Final Project Part II] (https://carnegiemellon.shorthandstories.com/how-inclusive-is-their-diversity_SKB/index.html)
+
