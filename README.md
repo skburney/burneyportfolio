@@ -32,5 +32,5 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Final Project Part I](/Final_Project_0720.md)
 
-[Final Project Part II](https://carnegiemellon.shorthandstories.com/how-inclusive-is-their-diversity_SKB/index.html)
+[Final Project Part II](https://skburney.github.io/finalprojectptII/)
 
