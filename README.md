@@ -28,6 +28,8 @@ Currently, I think my redesign of the data looks clean and appealing.  Sometimes
 
 [Original Wireframe Design](https://skburney.github.io/Datavis3/)
 
+# Final Project
+
 [Final Project Part I](/Final_Project_0720.md)
 
 [Final Project Part II](https://carnegiemellon.shorthandstories.com/how-inclusive-is-their-diversity_SKB/index.html)
